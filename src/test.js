@@ -3,6 +3,10 @@ class Contexts {
     this._x = coord;
   }
 
+  alfatest() {
+    console.log("Test");
+  }
+
   betatest() {
     let variable = 123;
 
